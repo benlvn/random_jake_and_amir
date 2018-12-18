@@ -1,7 +1,7 @@
 {
 	"name": "Random Jake and Amir",
 	"version": "1.0",
-	"description": "It's just a button that opens up a random Jake and Amir video How is that fair?",
+	"description": "It's just a button that opens up a random Jake and Amir video. How is that fair?",
 	"permissions": ["tabs"],
 	"background": {
 		"scripts": ["background.js"],
