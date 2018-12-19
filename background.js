@@ -1,6 +1,5 @@
 chrome.runtime.onInstalled.addListener(function() {
   chrome.browserAction.onClicked.addListener(function() {
-    console.log("Icon clicked")
     gotoVideo()
   })
 });
